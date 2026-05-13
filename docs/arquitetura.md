@@ -118,3 +118,11 @@ Job: pipeline_medalhao
 ```
 
 Cada task só inicia após a anterior ser concluída com sucesso, garantindo a integridade do pipeline.
+
+## 📝 Referências
+
+- 💻 [jlsilva01/spark-delta-minio-sqlserver](https://github.com/jlsilva01/spark-delta-minio-sqlserver)
+- 📘 [Documentação Delta Lake](https://docs.delta.io/)
+- 📘 [Documentação Databricks](https://docs.databricks.com/)
+- 📘 [Documentação Supabase](https://supabase.com/docs)
+- 📘 [Documentação PySpark](https://spark.apache.org/docs/latest/api/python/)
