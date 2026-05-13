@@ -76,7 +76,7 @@ cd lakehouse-databricks-medalhao-study
 
 ### 3. Configurar as credenciais do Supabase
 
-No notebook `01_landing.py`, preencha as variáveis:
+No notebook `00_landing.py`, preencha as variáveis:
 
 ```python
 SUPABASE_HOST = "db.xxxx.supabase.co"
@@ -102,10 +102,10 @@ SUPABASE_PORT = 5432
 
 | Task | Notebook | Depende de |
 |---|---|---|
-| task_landing | `01_landing` | — |
-| task_bronze | `02_bronze` | task_landing |
-| task_silver | `03_silver` | task_bronze |
-| task_gold | `04_gold` | task_silver |
+| task_landing | `00_landing` | — |
+| task_bronze | `01_bronze` | task_landing |
+| task_silver | `02_silver` | task_bronze |
+| task_gold | `03_gold` | task_silver |
 
 3. Clique em **Run Now** para executar o pipeline completo
 
