@@ -1,3 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://vanessaugioni.github.io/lakehouse-databricks-medalhao-study/</loc>
+         <lastmod>2026-05-13</lastmod>
+    </url>
+    <url>
+         <loc>https://vanessaugioni.github.io/lakehouse-databricks-medalhao-study/arquitetura/</loc>
+         <lastmod>2026-05-13</lastmod>
+    </url>
+    <url>
+         <loc>https://vanessaugioni.github.io/lakehouse-databricks-medalhao-study/como-executar/</loc>
+         <lastmod>2026-05-13</lastmod>
+    </url>
+    <url>
+         <loc>https://vanessaugioni.github.io/lakehouse-databricks-medalhao-study/notebooks/</loc>
+         <lastmod>2026-05-13</lastmod>
+    </url>
 </urlset>
