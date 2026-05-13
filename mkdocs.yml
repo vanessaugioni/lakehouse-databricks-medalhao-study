@@ -1,8 +1,11 @@
 site_name: Lakehouse com Databricks & Arquitetura Medalhão
 site_description: Pipeline de dados completo com Databricks Free Edition, Delta Lake e Arquitetura Medalhão
-site_author: Seu Nome
-repo_url: https://github.com/seu-usuario/spark-delta-databricks-study
-repo_name: spark-delta-databricks-study
+site_author: Gabriel Müller
+
+site_url: https://vanessaugioni.github.io/lakehouse-databricks-medalhao-study/
+
+repo_url: https://github.com/vanessaugioni/lakehouse-databricks-medalhao-study
+repo_name: lakehouse-databricks-medalhao-study
 
 theme:
   name: material
