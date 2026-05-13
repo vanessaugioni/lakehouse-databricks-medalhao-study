@@ -64,8 +64,8 @@ Todo o pipeline é orquestrado por um **Job no Databricks**, executando os noteb
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/vanessaugioni/spark-delta-databricks-study.git
-cd spark-delta-databricks-study
+git clone https://github.com/vanessaugioni/lakehouse-databricks-medalhao-study.git
+cd lakehouse-databricks-medalhao-study
 ```
 
 ### 2. Importar os notebooks no Databricks
