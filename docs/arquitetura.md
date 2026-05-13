@@ -31,7 +31,7 @@ flowchart LR
 - **Transformações:** Nenhuma — dados brutos
 - **Tabelas:** `departamentos`, `funcionarios`, `projetos`, `alocacoes`
 
-A camada Landing é a zona de entrada dos dados. A extração é feita via **JDBC** diretamente do PostgreSQL do Supabase, e os dados são gravados como tabelas Delta no schema `landing.dados`.
+A camada Landing é a zona de entrada dos dados. A extração é feita via **JDBC** diretamente do PostgreSQL do Supabase, e os dados são gravados como tabelas csv no schema `landing.dados`.
 
 ---
 

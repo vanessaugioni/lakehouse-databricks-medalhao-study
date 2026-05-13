@@ -47,11 +47,3 @@ O objetivo é demonstrar na prática como construir um **Lakehouse** completo, p
 - [Trabalho 2](https://github.com/seu-usuario/spark-delta-minio-study-2) — Extração CSV + DML Delta Lake
 - [Trabalho 3](https://github.com/vanessaugioni/lakehouse-databricks-medalhao-study) — Esse repositório. 
 
-
-## 📝 Referências
-
-- 💻 [jlsilva01/spark-delta-minio-sqlserver](https://github.com/jlsilva01/spark-delta-minio-sqlserver)
-- 📘 [Documentação Delta Lake](https://docs.delta.io/)
-- 📘 [Documentação Databricks](https://docs.databricks.com/)
-- 📘 [Documentação Supabase](https://supabase.com/docs)
-- 📘 [Documentação PySpark](https://spark.apache.org/docs/latest/api/python/)
